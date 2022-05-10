@@ -23,4 +23,3 @@
 - Compute power refers to the speed a computer is able to process data.
 - TPU's power 50x more powerful and quantum computing 100mx more powerful than traditional chips. 
 - Data is most needed to unlock the cloud capability to self-learning from the input to the output of data.
-- 
