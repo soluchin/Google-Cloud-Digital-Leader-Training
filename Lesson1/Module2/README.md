@@ -24,5 +24,7 @@
 - The way to realize it by using developer operation (DevOps) and aim to increase software delivery velocity, improve services reliability, and build shared ownership amongst software stackholders 
 
 ## Unlocking value of data
-
-
+- Leveraging data relies on being able to capture, store and structure it that you can make informed business decision with it.
+- Data no longer about retrospective insight, but includes real-time insight.
+- By using ML and AI, we can generate insight from data both past and present, also you can perceives, predict, recommend and categorize new data
+- example: ML enable to predict maintenance manufacture, analyze every click made by the user to personalize, and try to analyze images 
