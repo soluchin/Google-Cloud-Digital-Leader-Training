@@ -1,9 +1,14 @@
 # Google-Cloud-Digital-Leader-Training
 Udacity - Google Cloud Digital Leader Training Course
 
-# Module 1: Why cloud technology is revolutionizing business
-This module introduces cloud technology as a paradigm shift and explains how it’s irrevocably transforming businesses globally. It defines the fundamental ingredients of cloud technology—compute power and data—and how they can be used to create new value within a business.
+# Lesson 1: Introduction to Digital Transformation with Google Cloud
+This lesson defines fundamentals terms such as cloud, data and digital transformation.
 
-Learning Objectives:
-- Explain why and how the cloud revolutionizes businesses.
-- Define key terms such as cloud, cloud technology, data, and digital transformation.
+# Lesson 2: Innovating with Data and Google Cloud
+In this lesson, you'll learn what data is, historical ways companies have used it to make decisions and why it is so critical for machine learning.
+
+# Lesson 3: Infrastructure and Application Modernization with Google Cloud
+This lesson explores the challenges of an outdated IT infrastructure and how businesses can modernize it using cloud technology.
+
+# Lesson 4: Understanding Google Cloud Security and Operations
+This lesson examines cost managemet, security and operations in the cloud.
