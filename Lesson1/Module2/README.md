@@ -6,6 +6,6 @@
 - They also expect service always running and available anywhere around the world.
 - New cloud paradigm requires to operate in new ways to meet personalized expectations.
 
-## Common challenges
+## Enhancing productivity and collaboration
 
 ## Opportinities
