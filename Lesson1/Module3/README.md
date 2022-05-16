@@ -18,6 +18,13 @@
 - Think 10x for generate big idea
 - Launch and iterate or continous learning
 
-### Focus onTthe Customer
+### Focus on The Customer
 1. Users are not limited to paying customers or people outside our business. Our employees also our users.
 2. Users expectation, how you can add value for them.
+  - Users expectation focus area: Access, Engagement, Customization, Communication.
+  - Users expected faster and easier services with always on capabilities that can be accessed anywhere.
+  - Users are looking for sources of valued content. They expect up-to-date, reliable content from multiple fields expetises.
+  - Users are expected that product seamlesly adapt to their individual needs and preferences
+  - Users are expected to communicate with services providers through the two-way feedback channel.
+
+### Generate Big Idea
