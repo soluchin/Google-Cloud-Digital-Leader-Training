@@ -39,3 +39,9 @@
 - Instead to starting off with a perfect solution, better figure it out with experimentation.
 - Try, learn from the output and try again
 - Find a transformative solution, start experimenting and building. Seek feedback quickly. You may fail in the first time, but if you do fail fast instead of wasting your time perfectingg your idea. In failure we learn quickly.
+
+## Step to Cultivating an Innovation Mindset
+1. **What is your WHY?**  Write down one sentence about your mission statement.
+2. **Who is your USERS?** How are you to meeting user expectations? What are your ways you're focusing on their expectations
+3. **How can you use technology to serve user 10x better?**
+4. **How can you launch and iterate ideas more often?** What would it take to launch your first idea?
