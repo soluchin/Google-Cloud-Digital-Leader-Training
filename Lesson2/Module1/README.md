@@ -16,3 +16,29 @@
 - Cloud services offered solution: Economics scale, elasticity, automation and data access
 - Data can be combined, analyze and serve to bussiness team quickly and cost-effectively
 - No matter where you are in the company, you too can leverage data to solve challenges
+
+## How to Leveraging Data?
+- **Identify and map your data,** data map is a chart of all the data used in end-to-end business process.
+- **Dataset category:** User data(transactions, returns), corporate data (staffing, sales performance, staff structure), industry data (purchasing patterns, research papers)
+- **Start with intersect between your datasets** and gain insight from it
+
+## Understanding Data Types
+Based on their meaning for business
+1. Structured
+2. Unstructured
+
+| **Structured** | **Unstructured** |
+| --- | --- |
+| highly organized | no organization |
+| quantitative data | tend to qualitative |
+| easily stored and managed in databases | stored as objects |
+| esily to analyze | difficult to analyze |
+| | globally unique identifier |
+| customers records, names, contact numbers | word processing, audio files, images, videos |
+
+- We have to rely on both structured and unstructured data to gain insight and make intelligent decisions
+- Using cloud API tools to extract business value from unstructured data with the right tools.
+- API is a set of functions that integrate different platforms with different types of data and discovered new insight
+- Understanding the types of data can help you to define what's possible with data solution you have 
+
+
