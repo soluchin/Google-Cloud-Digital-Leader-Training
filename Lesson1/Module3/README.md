@@ -30,3 +30,12 @@
 ### Generate Big Idea
 - Using technology to achieve improvement
 - Think 10x to achieve the mission in new ways and differentiate their offering from competitors.
+
+### Launch and Iterate
+- Refered to continous learning
+- Break and burn and fail fast idea that you want to encourage in your company culture.
+- Give the employees the freedom to innovate and enable them to apply 10x thinking
+- Launch and iterate is both a mindset and practice
+- Instead to starting off with a perfect solution, better figure it out with experimentation.
+- Try, learn from the output and try again
+- Find a transformative solution, start experimenting and building. Seek feedback quickly. You may fail in the first time, but if you do fail fast instead of wasting your time perfectingg your idea. In failure we learn quickly.
