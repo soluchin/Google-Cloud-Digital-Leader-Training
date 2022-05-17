@@ -47,3 +47,4 @@ Based on their meaning for business
 - Not all information that can captured should be captured
 - Example: if you want training an ML models to identify lungs tumor, you just need the x-rays images of the lungs. And the personal information such as adress, names, historical salary doesn't relevant to capture
 - Business are accountable for making responsible decisions about which data they collect, stored and analyze 
+- Human bias can influence the way data are collected, combined and used. Because of this, important to include strategy to remove unconscious biases at you start leveraging data to build new business value.
