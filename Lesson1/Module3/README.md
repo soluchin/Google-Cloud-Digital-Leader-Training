@@ -28,3 +28,5 @@
   - Users are expected to communicate with services providers through the two-way feedback channel.
 
 ### Generate Big Idea
+- Using technology to achieve improvement
+- Think 10x to achieve the mission in new ways and differentiate their offering from competitors.
