@@ -41,4 +41,9 @@ Based on their meaning for business
 - API is a set of functions that integrate different platforms with different types of data and discovered new insight
 - Understanding the types of data can help you to define what's possible with data solution you have 
 
-
+## Important Data Considerations
+- ethical considerations requires alternative ways of thinking about security
+- Capturing and managing data demands responsibility and accountability
+- Not all information that can captured should be captured
+- Example: if you want training an ML models to identify lungs tumor, you just need the x-rays images of the lungs. And the personal information such as adress, names, historical salary doesn't relevant to capture
+- Business are accountable for making responsible decisions about which data they collect, stored and analyze 
