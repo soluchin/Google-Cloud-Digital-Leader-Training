@@ -5,3 +5,11 @@ Data is key to digital transformation. In fact, capturing, managing, and leverag
 - Describe the role of data in digital transformation.
 - Describe how to use data to create business insights.
 - Recognize examples of structured and unstructured data.
+
+# [Module 2: Data Consolidation and Analytics](Module2)
+This module introduces key terms that are related to data management and highlights the benefits of migrating data to the cloud. It offers several customer uses cases along with relevant Google Cloud data management solutions. It concludes with a review of key products such as BigQuery and Looker that enable users to draw insights from their data.
+
+**Learning Objectives:**
+- Explain the benefits of storing data in the cloud.
+- Define key terms such as database, data warehouse, and data lake.
+- Identify Google Cloud data storage and database services.
