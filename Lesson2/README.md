@@ -13,3 +13,11 @@ This module introduces key terms that are related to data management and highlig
 - Explain the benefits of storing data in the cloud.
 - Define key terms such as database, data warehouse, and data lake.
 - Identify Google Cloud data storage and database services.
+
+# [Module 3: Innovation with Machine Learning](Module3)
+Data analytics has historically been about understanding what has already happened in the past. With advancements in cloud technology, and the availability of digital devices, we're generating volumes of data everyday. This module explores the capabilities of machine learning and what becomes possible with volumes of data. It builds on the previous module by explaining ways a machine can learn to predict, categorize, and recommend based on lots and lots of data. Throughout the module, you'll uncover examples of customers who have used machine learning to bring innovative solutions to their customers.
+
+**Learning Objectives:**
+- Define artificial intelligence (AI) and machine learning (ML).
+- Explain the importance of data quality in ML prediction accuracy.
+- Describe Google Cloud’s differentiators when it comes to AI and Machine Learning.
