@@ -32,4 +32,25 @@ Refers to the availability of sufficient data about the world to replace human k
 - Google cloud democratizes AI by providing a range of tools to support an entire machine learning workflow across different model types in varying level of ML expertise
 - Flowchart to help identify the best approach for your machine learning projects
 ![](image2.png)
-- 
+
+### Pre-trained APIs
+- Use google cloud pre-trained API if you dont have your own training data
+- Great options if you dont have specialized data scientist but you have business analyst and developers -> faster and lower effort approach but less customized
+- Pre-trainedd APIs devided into four categories:
+  - Sight
+  - Languange
+  - Conversation
+  - Structured Data
+  - 
+### Vertex AI
+- Apply your own data to train pre-existing google ML models
+- Train, test and deploy machine learning without code
+
+
+## Real World Use-case for ML
+- ML is unique placed to create new business value when it can learn from data to automate action and process and to customize responses to behavior
+- Commong busines problem:
+  1. Replacing rule-based system
+  2. Automating procesess
+  3. Understanding unstructure data
+  4. Personalizing applications for customer experiences
