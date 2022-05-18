@@ -23,6 +23,7 @@ Expensive | Rent as needed
 Difficult to scale easily | Easy scalling
 
 ## Data Store
+
 ### Database
 - Organized collection of data
 - Generally stored in tables
@@ -42,3 +43,20 @@ Difficult to scale easily | Easy scalling
 ### Data Lakes
 - Store unstructure data
 - Stored in native format
+- Using Google cloud storage
+- Benefits:
+  - Store unlimited data
+  - Low latency
+  - Access anywhere
+
+### Google Cloud Tools
+![](image1.png)
+
+## Business Solution
+- Business challenge is identifying the right business intelligence solution
+- Some solution is complex, not accessible for everyone outside data engineering or data analysis teams
+- The solution is let everyone in business perform their own data analysis
+- Google cloud tools looker is the one of solution
+- Looker: describe the data, define the business metrics
+- So everyone in business can analyze, explore, ask and answer question, create visualization, and explore the details of data
+- 
