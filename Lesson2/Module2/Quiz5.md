@@ -1,4 +1,4 @@
-# Quiz 6: Data consolidation and analytics
+# Quiz 5: Data consolidation and analytics
 
 ### 1. Which of the following is an advantage for storing and managing data in the public cloud? Select the two correct answers.
 - [x] Speed
