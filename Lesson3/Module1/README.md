@@ -8,5 +8,7 @@
 - IT enterprises moving to paying only for what they use (cloud) instead of buying a fixed capacity -> changin the economics technology investment
 
 ## Infrastructure Modernization
+- Google cloud provides to compute, store and network resources to manage data centers
+- Legacy server 
 - 
 
